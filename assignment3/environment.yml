@@ -1,0 +1,8 @@
+name: cs7643-a3
+dependencies:
+  - python=3.6.5
+  - numpy
+  - matplotlib
+  - pyyaml
+  - scipy
+  - future
