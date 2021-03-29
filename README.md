@@ -2,7 +2,7 @@
  
 This repository includes three assignments of CS7643 Deep Learning course at GeorgiaTech.
 
-<div align=center><img src="assignment3/styles_images/starry_tubingen_before.png" height="350"><img src="assignment3/styles_images/starry_tubingen.png" height="350"><div align=left>
+<div align=center><img src="assignment3/styles_images/starry_tubingen_before.png" height="350"><img src="assignment3/styles_images/starry_tubingen.png" height="340"><div align=left>
 
 See the projects description and the [report](assignment3/report-a3-cpeng78.pdf) for details.
 
